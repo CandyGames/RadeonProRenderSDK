@@ -46,6 +46,7 @@
 #include <iostream>
 #include <thread>
 #include <memory>
+#include <chrono>
 
 const unsigned int WINDOW_WIDTH = 640;
 const unsigned int WINDOW_HEIGHT = 480;
